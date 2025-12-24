@@ -1,0 +1,1 @@
+# Creating different data types in Python
