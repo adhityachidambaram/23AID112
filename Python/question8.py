@@ -2,7 +2,7 @@
 # Input from user
 traffic_light = input("Enter the traffic light color (red, yellow, green): ")
 
-# Output based on the traffic light color
+# Output 
 if traffic_light == "red":
     print("STOP!")
 elif traffic_light == "yellow":
