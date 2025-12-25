@@ -1,11 +1,10 @@
-#Ask user for temperature in Celsius.
 temp_in_celsius = float(input("Enter temperature in Celsius: "))
 
 #Convert to Fahrenheit (°F = °C × 9/5 + 32)
 temp = (temp_in_celsius * 9/5) + 32
 print("Temperature in Fahrenheit is:", temp)
 
-#Output messages based on temperature ranges
+#Output 
 if temp_in_celsius <0:
     print("Very cold! Wear thick jacket")
 elif 0 <= temp_in_celsius <15:
