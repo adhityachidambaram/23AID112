@@ -2,7 +2,7 @@
 num1_str = input("Enter first number: ")
 num2_str = input("Enter second number: ")
 
-#  convert the String inputs to integers
+#  converting the String inputs to integers
 num1 = int(num1_str)
 num2 = int(num2_str)
 print("The sum of two numbers is :", num1 + num2)
